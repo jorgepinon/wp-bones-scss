@@ -1,0 +1,11 @@
+{
+  "name": "wp-bones-scss",
+  "version": "1.0.0",
+  "description": "Wordpress starter theme based on Bones with my preferred scss structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Piñon",
+  "license": "ISC"
+}
