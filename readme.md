@@ -1,6 +1,18 @@
-# Bones
-A Lightweight Wordpress Development Theme
+# wp-bones-scss
+A starter Wordpress theme based on the awesome Bones, but with my own preferred SCSS structure.
 
+I use this to kick off any personal and client WP projects, but anyone is welcome to it.
+
+* Compass
+* npm 
+* my own SCSS library
+
+Requires ACF plugin (free version is ok):
+https://www.advancedcustomfields.com
+
+There's no Gulp, Grunt, Bower, Browserify, Webpack, or WTF -- on purpose. I left them out in case the new project requires one or the other.
+
+## Bones
 Bones is designed to make the life of developers easier. It's built
 using HTML5 & has a strong semantic foundation.
 It's constantly growing so be sure to check back often if you are a
@@ -12,26 +24,5 @@ http://themble.com/bones
 License: WTFPL
 License URI: http://sam.zoy.org/wtfpl/
 Are You Serious? Yes.
-
-#### Special Thanks to:
-Paul Irish & the HTML5 Boilerplate
-Yoast for some WP functions & optimization ideas
-Andrew Rogers for code optimization
-David Dellanave for speed & code optimization
-and several other developers. :)
-
-#### Submit Bugs & or Fixes:
-https://github.com/eddiemachado/bones/issues
-
-To view Release & Update Notes, read the CHANGELOG.md file in the main folder.
-
-For more news and to see why my parents constantly ask me what I'm
-doing with my life, follow me on twitter: @eddiemachado
-
-## Helpful Tools & Links
-
-Yeoman generator to quickly install Bones Wordpress starter theme into your Wordpress theme folder
-by 0dp
-https://github.com/0dp/generator-wp-bones
 
 
